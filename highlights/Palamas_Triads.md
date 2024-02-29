@@ -1,0 +1,9 @@
+# Palamas: Triads
+## ISBN:0-8091-2447-5
+> It should be remembered that no evil thing is evil insofar as it exists, but insofar as it is turned aside from the activity appropriate to it, and thus from the end assigned to this activity. +pp27
+
+Where Proclus is said to have noted the angels as guided by the one and their role in steering daemonea, we may find resonance with Palamas insight that evil is to turn away from appropriate activity. Demons in the negative connation must be understood like cancer: the differentiation of the error-in-the-world is no longer guided towards immanent univocity
+
+> Is there then anything of use to us in this philosophy? Certainly. For just as there is much therapeutic value even in substances obtained from the flesh of serpents, and the doctors consider there is no better and more useful medicine than that derived from this source, so there is something of benefit to be had even from the profane philosophers - but somewhat as in a mixture of honey and hemlock. +pp28
+
+For me, the Flesh of Serpents signals Chemical Ecology, a tapestry of relations that hangs in a gentle balance. I begin to imagine non-determinstic chaos and dynamical systems theory with applications to biochemistry. Philosophy is like a strange interaction partner that can carry the system of thought to a subdomain of the manifold of Being where it was previously veiled, but in every measurement comes a collapse such that Absolute Knowledge slips endlessly from ones grasp. Slippery like a basic solution, philosophy at once cleans yet washes away. Yet to treat the skin with chemicals all too often reorganizes the chemical ecology thereof.
