@@ -15,16 +15,21 @@ These markdown files are intended to be data that can be used in scripts but als
 ## Table of Contents
 
 Book Introductions: Spinoza contra Phenomenology
+
 find 'full text.md'
 
 example of full text experience
+
 script expericence testing complete
 
 Essays: Benjamin Capitalism as Religion 
+
 example of short form text experience
 
 Highlights: Palamas Triads
+
 example of highlight with commentary without effort to preserve text data. 
+
 pandoc:md -> html test with python http server test complete
 
 Such is the manner in which the Chaldean Oracles have been made accessible, though largely incomplete. Nonetheless, enough was quoted to bring about a scandal, in my eyes, on the question of the Trinity whether Nicea was a Late Platonic Turn. Does Porphyry really haunt the depths of Augustine of Hippo?
