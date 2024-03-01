@@ -14,7 +14,7 @@ These markdown files are intended to be data that can be used in scripts but als
 
 ## Table of Contents
 
-Book Introductions: Spinoza contra Phenomenology
+### Book Introductions: Spinoza contra Phenomenology
 
 find 'full text.md'
 
@@ -22,11 +22,11 @@ example of full text experience
 
 script expericence testing complete
 
-Essays: Benjamin Capitalism as Religion 
+### Essays: Benjamin Capitalism as Religion 
 
 example of short form text experience
 
-Highlights: Palamas Triads
+### Highlights: Palamas Triads
 
 example of highlight with commentary without effort to preserve text data. 
 
