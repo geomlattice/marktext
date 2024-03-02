@@ -16,6 +16,8 @@ These markdown files are intended to be data that can be used in scripts but als
 
 ### Book Introductions: Spinoza contra Phenomenology
 
+### Book Introductions: Hegel on Being
+
 find 'full text.md'
 
 example of full text experience
