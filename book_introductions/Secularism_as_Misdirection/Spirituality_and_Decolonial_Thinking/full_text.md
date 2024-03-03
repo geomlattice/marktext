@@ -5,6 +5,8 @@ From another part of the global South, Walter Mignolo names as the 'Western code
 17. Mignolo 2011: xii.
 
 18. Ibid.: xviii.
+
+
 The world around 1500 was 'polycentric and non-capitalist',19 with several coexisting civilizations - the Ming Huangdinate, the Ottoman Sultanate, the Mughal Empire, the Oyo and Benin kingdoms of the Yoruba nation in Africa, the Incas in Tawantinsuyu, and the Aztecs in Anahuac. At the beginning of the twenty-first century, the world is monocentric, interconnected by a single type of economy, capitalism; the violence of colonial practices has ravaged the world, which is now marked by a diversity of political theories and practices. In between these two scenarios, 'modernity' enters as a double colonisation of time and space. A structure of control and management has emerged, of 'authority, economy, subjectivity, gender and sexual norms', driven by the exploitation of labour and the expropriation of land.20
 
 According to Nelson Maldonaldo-Torees a serious engagement with spirituality is a dstinguishing feature of decolonial - as opposed to postcolonial - thought. Mignolo himself is not interseted in drawing sharp lines of division between decolonial and postcolonial thought. he sees both as 'options' that can coexist, and as having different trajectories in terms of points of origin and linguistic fields, and therefore different areas of concern.21 But he does outline the 'spiritual option' as one of the trajectories that decolnial thinking will have to take seriously in the coming decades as it challenges both secular modernity/coloniality, and also the colonisation of institutionalised religions.22 Maldonaldo-Torres sees this as a distinctive feature of decolonial thinking for, while postcolonial studies emerge from and are located in the academic field of the secular humanities, decolnial thinking has not been an academic discipline alone: it has included community activists, artists, and scholars critical of modern Western secularism who have drawn from and contributed to religious studies as well.
@@ -27,6 +29,8 @@ In a similar move, but from a position different from that of Mignolo, Achille M
 24. Maldonaldo-Torres 2022.
 
 25. Ibid.
+
+
 being reduced to matter.'26 Mbembe terms this the 'new secular religion,' counterposing to it the non-dichotomy of precolonial African and Amerindian metaphysics which enables us to 'de-dramatize the human/object relationship.'27 At the same time Mbembe is concerned that the 'critique of reason' should not become 'a war against reason', and it is in this context that he asserts the new critical universalism.
 
 In the present book I attempt to assert multiple notions of reason and unreason, as well as a somewhat suspicious attitude towards universalism. The point, however, that emerges from these different sets of not necessarily congruent arguments is the idea of 'applying theory' produced in one context to 'understand practice' in another assumes that 'politcal practice' is 'non-theoretical' - completely bereft of any discursive-theoretical content - so that any theory (from the West) can be used to make sense of politcal practice anywhere. But, as some of us argued in an earlier work, all political practice is always constituted by some form of reflection and thought - theoretical or non-theoretical - and, as we realise today, at leasst one part of theorisation must be abou making sense of 'practice' through an understanding of the subject's own world and her categories of thought.28
