@@ -16,21 +16,21 @@ These markdown files are intended to be data that can be used in scripts but als
 
 ### Book Introductions 
 
-[Spinoza contra Phenomenology]("./book_introductions/Spinoza_contra_Phenomenology/full_text.md")
+[Spinoza contra Phenomenology](./book_introductions/Spinoza_contra_Phenomenology/full_text.md)
 
-[Hegel on Being]("./book_introductions/Hegel_on_Being/full_text.md")
+[Hegel on Being](./book_introductions/Hegel_on_Being/full_text.md)
 
 example of full text experience
 
 ### Essays 
 
-[Benjamin Capitalism as Religion]("./essays/Benjamin_Capitalism_as_Religion.md")
+[Benjamin Capitalism as Religion](./essays/Benjamin_Capitalism_as_Religion.md)
 
 example of short form text experience
 
 ### Highlights
 
-[Palamas Triads]("./highlights/Palamas_Triads.md")
+[Palamas Triads](./highlights/Palamas_Triads.md)
 
 example of highlight with commentary without effort to preserve text data. 
 
