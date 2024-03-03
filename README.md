@@ -14,25 +14,25 @@ These markdown files are intended to be data that can be used in scripts but als
 
 ## Table of Contents
 
-### Book Introductions: Spinoza contra Phenomenology
+### Book Introductions 
 
-### Book Introductions: Hegel on Being
+[Spinoza contra Phenomenology]("./book_introductions/Spinoza_contra_Phenomenology/full_text.md")
 
-find 'full text.md'
+[Hegel on Being]("./book_introductions/Hegel_on_Being/full_text.md")
 
 example of full text experience
 
-script expericence testing complete
+### Essays 
 
-### Essays: Benjamin Capitalism as Religion 
+[Benjamin Capitalism as Religion]("./essays/Benjamin_Capitalism_as_Religion.md")
 
 example of short form text experience
 
-### Highlights: Palamas Triads
+### Highlights
+
+[Palamas Triads]("./highlights/Palamas_Triads.md")
 
 example of highlight with commentary without effort to preserve text data. 
-
-pandoc:md -> html test with python http server test complete
 
 Such is the manner in which the Chaldean Oracles have been made accessible, though largely incomplete. Nonetheless, enough was quoted to bring about a scandal, in my eyes, on the question of the Trinity whether Nicea was a Late Platonic Turn. Does Porphyry really haunt the depths of Augustine of Hippo?
 
