@@ -35,3 +35,11 @@ example of highlight with commentary without effort to preserve text data.
 pandoc:md -> html test with python http server test complete
 
 Such is the manner in which the Chaldean Oracles have been made accessible, though largely incomplete. Nonetheless, enough was quoted to bring about a scandal, in my eyes, on the question of the Trinity whether Nicea was a Late Platonic Turn. Does Porphyry really haunt the depths of Augustine of Hippo?
+
+### Research: Samkhya: Larsons: Philosophy of Samkhya
+
+[Preliminary Remarks](./research/samkhya/larson_introduction_to_samkhya/philosophy_of_samkhya/preliminary_remarks/full_text.md)
+
+[I Samkhya as Enumeration](./research/samkhya/larson_introduction_to_samkhya/philosophy_of_samkhya/I_Samkhya_as_Enumeration/full_fragment.md)
+
+This work is intended to be deeply integrated into a research and writing process. Concepts-as-datastrutures will map to the markdown files for pages. Writing will occur in a command line interface where concepts can be referenced in manner where the citation-chain can be followed clearly. Error correction hopefully will be more easy to exact across time or across perspectives. In addition to the notes folder, there will be a writings folder that draws on notes. This gives the writing a reference layer to highlights and margin notes, which themselves have a reference layer back to the markdown text that can be read by both human eyes(with some html or rich text support) and code as data. 
