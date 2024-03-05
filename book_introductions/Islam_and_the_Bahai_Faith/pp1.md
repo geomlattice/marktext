@@ -1,0 +1,12 @@
+# Islam and the Baha'i Faith
+
+## Oliver Scharbrodt
+
+## IBSN: 978–0–203–92857–8
+
+In early August 1887, several Beirut newspapers announced the departure of ‘the famous Abbas Effendi al-Irani’, 1 who left the city heading towards Akka, the former crusader fortress in Palestine. During his stay in Beirut,  Abbas Effendi met ulama ̄ -, notables and government officials ‘who flocked to  visit him spending the whole night talking with him under the moonlight’. 2 The newspaper announcements are not short of his praise. They describe the impact he had on the people he met during his visit, people who were impressed by both his immense knowledge and his extraordinary personality, ‘for he had such good character traits that he had won over the hearts immediately and made friendship to him an absolute priority’. 3 Abbas Effendi, more commonly known as Abdul-Baha, had arrived in Beirut in late June 1887.4 Not much is known of the purpose of this visit to Beirut apart from the constant stream of visitors to him consisting of ‘the great men of the city’. 5 Among the many men he met, one name, however, is known: Muhammad Abduh.
+
+Muhammad Abduh (1849–1905), the Egyptian-born Muslim reformer exiled to Beirut at that time, had been famed for his opposition to the British occupation of his country in 1882. Together with his mentor and teacher Jamalud-Din al-Afghani (1838–97), he published the anti-British journal Al- Urwa al-Wuthqa ̄ (The Firmest Bond) in Paris, before he settled in Beirut in 1885. One of his students in Beirut, Shakib Arslan (1869–1946), who later  became famous as an Ottoman politician and Arab nationalist, briefly men- tions in his account of Abduh’s stay in Beirut the encounter between his  teacher and Abdul-Baha which must have taken place some time between late June and early August 1887:
+
+> None of the notables or his acquaintances journeyed to Beirut without coming to greet him. He honoured and exalted each one and, even if he conflicted with him in belief, he did not cease to respect him. Foremost among those he honoured was Abbas Effendi al-Baha, the leader of Babism (al-ba ̄ biyya), even though the Babi creed (al-t ̇  arı ̄qa al-ba ̄ biyya) is  different from what the shaykh believes and is the creed (t  ̇  arı ̄qa) that al- Sayyid Jamalud-Din refuted so strongly. But he revered Abbas Effendi’s knowledge, refinement, distinction, and high moral standards and Abbas Effendi similarly honoured Abduh.6 
+
