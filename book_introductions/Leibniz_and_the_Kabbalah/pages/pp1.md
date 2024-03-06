@@ -1,0 +1,11 @@
+# Leibniz and The Kabbalah
+
+## Allison P. Coudert
+
+## Arizona State University
+
+## IBSN: 978-90-481-4465-5
+
+The general view of scholars is that the Kabbalah had no meaningful influence on Leibniz's thought.} But on the basis of new evidence I am convinced that the question must be reopened. The Kabbalah did influence Leibniz, and a recognition of this will lead to both a better understanding of the supposed "quirkiness,,2 of Leibniz's philosophy and an appreciation ofthe Kabbalah as an integral but hitherto ignored factor in the emergence of the modem secular and scientifically oriented world. During the past twenty years there has been increasing willingness to recognize the important ways in which mystical and occult thinking contributed to the development of science and the emergence of toleration. 3 However, the Kabbalah, particularly the Lurianic Kabbalah with its monistic vitalism and optimistic philosophy of perfectionism and universal salvation, has not yet been integrated into the new historiography, although it richly deserves to be.
+
+On the basis of manuscripts in libraries at Hanover and Wolfenbiittel, it is clear that Leibniz's relationship with Francis Mercury van Helmont (1614- 1698) and Christian Knorr von Rosenroth (1636-1689), the two leading Christian Kabbalists of the period, was much closer than previously imagined and that his direct knowledge of their writings, especially the collection of kabbalistic texts they published in the Kabbala Denudata,4 was far more detailed than most scholars have realized. During 1688 Leibniz spent more than a month at Sulzbach with von Rosenroth. Foucher de Careil has pointed out how strange it was for Leibniz to stay in this one place for such a long time when he stayed hardly anywhere else for more than two nights.5 He suggests this must reflect a more than casual interest on Leibniz's part, although he rejects any kabbalistic influence on Leibniz's thought. As he says, "One senses that it [the Kabbalah] was only an object of curiosity for him, like many other imaginary curiosities of his time or of past centuries .... This energetic thinker [Leibniz] reduced all these doctrines to his own system. He only took what agreed with his own thought."6
