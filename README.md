@@ -51,6 +51,8 @@ After discovering Pseudo-Dionysius in the Syriac Tradition, I looked at Aristotl
 
 [Meaning and Emptiness: Re-introducing Ibn Arabi to Late Modern Minds](./essays/meaning_and_emptiness/full_text.md) 
 
+This comes from the Book Esoteric Lacan, a collection of Essays on Mysticsm and Lacan. 
+
 ### Highlights
 
 [Palamas Triads](./highlights/Palamas_Triads.md)
@@ -71,3 +73,4 @@ This work is intended to be deeply integrated into a research and writing proces
 
 These markdown files are intended to be data that can be used in scripts but also experienced easily by most devices with web browsers and an internet connection. There is a balance here between optimizing for command line bliss and ease of access more broadly. I am attempting to structure everything so that these seeming dualities become monadic and reach a nice harmony.
 
+I plan to build a wiki from the text in the markdown. This information can be processed further into data structures.
